@@ -1,0 +1,1 @@
+This is a practice project you keep my HTML and CSS skills sharp
